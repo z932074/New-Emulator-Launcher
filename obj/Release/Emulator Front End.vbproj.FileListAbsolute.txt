@@ -1,0 +1,13 @@
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\bin\Release\Emulator Front End.exe.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\bin\Release\Emulator Front End.exe
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\bin\Release\Emulator Front End.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\bin\Release\Emulator Front End.xml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator_Front_End.frmAbout.resources
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator_Front_End.EFE.resources
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator_Front_End.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator_Front_End.Preferences.resources
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator Front End.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator Front End.exe
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator Front End.xml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator Front End.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Emulator Front End\Emulator Front End\obj\Release\Emulator Front End.vbprojResolveAssemblyReference.cache

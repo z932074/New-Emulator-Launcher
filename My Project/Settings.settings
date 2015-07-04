@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FIRST_RUN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YES</Value>
+    </Setting>
+    <Setting Name="NES_ROM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nil</Value>
+    </Setting>
+    <Setting Name="NES_EMU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nil</Value>
+    </Setting>
+    <Setting Name="SNES_ROM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nil</Value>
+    </Setting>
+    <Setting Name="SNES_EMU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nil</Value>
+    </Setting>
+    <Setting Name="GB_ROM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nil</Value>
+    </Setting>
+    <Setting Name="GB_EMU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nil</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
